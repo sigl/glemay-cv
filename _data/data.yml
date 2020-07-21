@@ -7,7 +7,7 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Guillayume Lemay-Hains
+  name: Guillaume Lemay-Hains
   tagline: Senior System Administrator / DevOps / Senior infrastructure administrator
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -65,107 +65,56 @@ education:
 
 experiences:
   - role: Tech Lead / Senior System Administrator
-    time: 2015 - Present
+    time: Jan 2016 - Present
     company: GloboTech Communincations
     details: |
       Currently responsible of the support and datacenter technician team, making schedule, interview, doing 3 month review while
       handling Level 3 support escalation, advanced customer, customer complaint also
       reponsible of internal infrastructure, public-private cloud infrastructure, network infrastructure and any LAE agency request or investigation.
       In the last past 5 years, the technology i had to learn in a really short time laps made me a key member of the GloboTech team. 
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+
+  - role: System Administrator L2
+    time: Feb 2015 - Dec 2015
+    company: INAP / Iweb Technology
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      During my short time at Iweb for Sysadmin L2, was about handling more complicated tasks like rebuilding raid, server audit and migration,
+      mitigating ddos with Arbor appliance, cisco firewall configuration and server investigation following a incident event.
+
+  - role: System Administrator L1
+    time: Nov 2014 - Feb 2015
+    company: INAP / Iweb Technology
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      This was my first come back job in technology, everyday was to handle frontline support request from customer in a datacenter helpdesk, handling dns configuration,
+      initial server investigation and customer onboarding. 
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+  - role: System Administrator L1
+    time: Nov 2014 - Feb 2015
+    company: INAP / Iweb Technology
+    details: |
+      This was my first come back job in technology, everyday was to handle frontline support request from customer in a datacenter helpdesk, handling dns configuration,
+      initial server investigation and customer onboarding. 
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Linux (High-Avaibility, Fault Tolerance)
+      level: 90%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Networking (GRE, VXLAN, Optical, Peering, Stack, LAG, DPDK, OVS)
+      level: 75%
 
-    - name: Angular
-      level: 98%
+    - name: Management
+      level: 75%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Bash/Python/PHP/SQL
+      level: 75%
 
-    - name: Ruby on Rails
+    - name: Security (Flows, IPSec, SPAN, ReQrypt, Onion, OSINT)
+      level: 75%
+
+    - name: Virtualisation (Openstack, KVM, VMware, Hyper-V, Docker, K8s)
+      level: 90%
+
+    - name: Infrastructure (Building, Electrical (108,208v,240v), Physical, Cabling, CCTV, HVAC, RFID/Digital, Solar, UPS/Powerwall, Generator (P,E,D) )
       level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
