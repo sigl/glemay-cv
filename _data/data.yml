@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Guillaume Lemay-Hains
-  tagline: Senior System Administrator / DevOps / Senior infrastructure administrator
+  tagline: Senior System/Infrastructure Administrator / DevOps / Network Administrator
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -79,13 +79,6 @@ experiences:
     details: |
       During my short time at Iweb for Sysadmin L2, was about handling more complicated tasks like rebuilding raid, server audit and migration,
       mitigating ddos with Arbor appliance, cisco firewall configuration and server investigation following a incident event.
-
-  - role: System Administrator L1
-    time: Nov 2014 - Feb 2015
-    company: INAP / Iweb Technology
-    details: |
-      This was my first come back job in technology, everyday was to handle frontline support request from customer in a datacenter helpdesk, handling dns configuration,
-      initial server investigation and customer onboarding. 
 
   - role: System Administrator L1
     time: Nov 2014 - Feb 2015
