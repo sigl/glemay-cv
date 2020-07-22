@@ -3,8 +3,8 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Guillaume Lemay-Hains
@@ -44,6 +44,8 @@ sidebar:
     - item: Cars
       link:
 
+    - item: Games
+      link:
 career-profile:
   title: Profile
   summary: |
@@ -51,8 +53,7 @@ career-profile:
     self-taught, with perseverance every-time something new to learn. I've learn the meaning of DDoS 
     on IRC for the first time and still learning every day. 
     
-    I've keep repairing computer until i wanted to see something else, so mechanic 
-    was the next step, this is where the management training began, having to handle, 10 heads, 30 daily customer with each different tasks or request 
+    I’ve keep repairing computer until i wanted to see something new and useful, so mechanic was the next step, this is where the management training began, having to handle, 10 heads, 30 daily customer with each different tasks or request 
     without forgetting something. 
     
     During my last years in mechanic, technology came back in my mind, and discovered that I've shouldn't have left! I've learn in the past 7-10 years, technology 
@@ -102,7 +103,9 @@ experiences:
     company: Fix Auto St-Jean / Garage Morin
     details: |
       This was one of my first "car" related work after leaving technology, which made a huge "shock" to see how well the wheel turn smoothly. I've got to learn from one of my mentor which we still keep touch, the management
-      and social interaction was one of my weakness which he helped everyday. During those time, i had to schedule car estimate, car repair, inspection and delivery of every customer which was about 10-15 car which repair can take more than 2-3 day specially for a hard crash.
+      and social interaction was one of my weakness which he helped everyday. 
+      
+      During those time, i had to schedule car estimate, car repair, inspection and delivery of every customer which was about 10-15 car which repair can take more than 2-3 day specially for a hard crash.
       Also got the chance to learn driving tow truck, air breaking, taking care of a rollover incident, and car bodywork repair. 
 
 skills:
