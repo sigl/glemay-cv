@@ -52,7 +52,7 @@ career-profile:
     on IRC for the first time and still learning every day. 
     
     I've keep repairing computer until i got tired of the doing the same thing and wanted to see something more basic, so mecanic 
-    was the next step, this is were the management training began, having to handle, 10 heads, 30 daily customer with each different tasks or request 
+    was the next step, this is where the management training began, having to handle, 10 heads, 30 daily customer with each different tasks or request 
     without forgetting something. 
     
     During my last years in mecanic, technology came back in my mind, and discovered that i've should'nt have left! I've learn in the past 7-10 years, technology 
@@ -95,7 +95,7 @@ skills:
     - name: Linux (High-Avaibility, Fault Tolerance)
       level: 90%
 
-    - name: Networking (GRE, VRF, VXLAN, Optical, Peering, Stack, LAG, DPDK, OVS)
+    - name: Networking (GRE, VRF, VXLAN, Optical, Peering, DPDK)
       level: 75%
 
     - name: Management
@@ -110,5 +110,9 @@ skills:
     - name: Virtualisation (Openstack, KVM, VMware, Hyper-V, Docker, K8s)
       level: 90%
 
-    - name: Infrastructure (Building, Electrical (108,208v,240v), Physical, Cabling, CCTV, HVAC, RFID/Digital, Solar, UPS/Powerwall, Generator (P,E,D) )
+    - name: Infrastructure (Building, Physical, Cabling, CCTV, HVAC, RFID/Digital)
       level: 85%
+
+    - name: Electrical (Cabling, Electrical (108,208v,240v), Solar, UPS/Powerwall, Generator (P,E,D) )
+      level: 80%    
+      
