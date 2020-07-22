@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: glemay@sysadm.ca
-  phone: 514 235 9545
+  phone: 514 235 9544
   website: 
   linkedin: glemaysysadm
   github:
@@ -47,15 +47,15 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    Since my earlier age, i've always deal with computer at the beginning of 2000 years,
-    self-taugh, with perseverence everytime something new to learn. I've learn the meaning of DDoS 
+    Since my earlier age, I've always deal with computer at the beginning of 2000 years,
+    self-taught, with perseverance every-time something new to learn. I've learn the meaning of DDoS 
     on IRC for the first time and still learning every day. 
     
-    I've keep repairing computer until i got tired of the doing the same thing and wanted to see something more basic, so mecanic 
+    I've keep repairing computer until i got tired of the doing the same thing and wanted to see something more basic, so mechanic 
     was the next step, this is where the management training began, having to handle, 10 heads, 30 daily customer with each different tasks or request 
     without forgetting something. 
     
-    During my last years in mecanic, technology came back in my mind, and discovered that i've should'nt have left! I've learn in the past 7-10 years, technology 
+    During my last years in mechanic, technology came back in my mind, and discovered that I've shouldn't have left! I've learn in the past 7-10 years, technology 
     will bring something that we don't see right now but i want be there to make it happen!
 education:
   - degree: High school diploma
@@ -68,9 +68,9 @@ experiences:
     time: Jan 2016 - Present
     company: GloboTech Communincations
     details: |
-      Currently responsible of the support and datacenter technician team, making schedule, interview, doing 3 month review while handling Level 3 support escalation, advanced customer, customer complaint.
+      Currently responsible of the support and data center technician team, making schedule, interview, doing 3 month review while handling Level 3 support escalation, advanced customer, customer complaint.
 
-      Reponsible of internal infrastructure, public-private cloud infrastructure, network infrastructure and any LAE agency request or investigation.
+      Responsible of internal infrastructure, public-private cloud infrastructure, network infrastructure and any LEA agency request or investigation.
 
       In the last past 5 years, the technology i had to learn in a really short time laps made me a key member of the GloboTech team. 
 
@@ -85,17 +85,17 @@ experiences:
     time: Nov 2014 - Feb 2015
     company: INAP / Iweb Technology
     details: |
-      This was my first come back job in technology, everyday was to handle frontline support request from customer in a datacenter helpdesk, handling dns configuration,
+      This was my first come back job in technology, everyday was to handle frontline support request from customer in a data center help desk, handling dns configuration,
       initial server investigation and customer onboarding. 
 
   - role: Technical Advisor / Shop Foreman / SAAQ inspector
     time: April 2011 - Nov 2014
     company: Autopro Garage Cadieux 2006
     details: |
-      During my time as technical advisor, i had to manage the 10 mecanic jobs, sell and schedule repair. Also had to investigate any vehicule sent for inspection as mecanical inspection or rebuild vehicule.
+      During my time as technical advisor, i had to manage the 10 mechanic jobs, sell and schedule repair. Also had to investigate any vehicle sent for inspection as mecanical inspection or rebuild vehicle.
       
-      Each rebuild inspection require a lot of paper work and come with it lot of fake invoice, fake estimate or stolen vehicule from other country. I've became a specialist to find out counterfeid docs. In the mean time,
-      we built a building expension to accomodate 3 new repair door which was really challenging while maintaining the constant repair/customer flow. Also got the chance to learn almost everything about car, from replacing parts to rebuild a full engine from stratch.
+      Each rebuild inspection require a lot of paper work and come with it lot of fake invoice, fake estimate or stolen vehicle from other country. I've became a specialist to find out counterfeit docs. In the mean time,
+      we built a building expansion to accommodate 3 new repair door which was really challenging while maintaining the constant repair/customer flow. Also got the chance to learn almost everything about car, from replacing parts to rebuild a full engine from scratch.
 
   - role: Estimator
     time: Oct 2008 - April 2011
@@ -109,7 +109,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Linux (High-Avaibility, Fault Tolerance)
+    - name: Linux (High-Availability, Fault Tolerance)
       level: 90%
 
     - name: Networking (GRE, VRF, VXLAN, Optical, Peering, DPDK)
@@ -124,7 +124,7 @@ skills:
     - name: Security (Flows, IPSec, SPAN, ReQrypt, Onion, OSINT)
       level: 75%
 
-    - name: Virtualisation (Openstack, KVM, VMware, Hyper-V, Docker, K8s)
+    - name: Virtualisation (OpenStack, KVM, VMware, Hyper-V, Docker, K8s)
       level: 90%
 
     - name: Infrastructure (Building, Physical, Cabling, CCTV, HVAC, RFID)
