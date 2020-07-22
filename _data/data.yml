@@ -88,6 +88,23 @@ experiences:
       This was my first come back job in technology, everyday was to handle frontline support request from customer in a datacenter helpdesk, handling dns configuration,
       initial server investigation and customer onboarding. 
 
+  - role: Technical Advisor / Shop Foreman / SAAQ inspector
+    time: April 2011 - Nov 2014
+    company: Autopro Garage Cadieux 2006
+    details: |
+      During my time as technical advisor, i had to manage the 10 mecanic jobs, sell and schedule repair. Also had to investigate any vehicule sent for inspection as mecanical inspection or rebuild vehicule.
+      
+      Each rebuild inspection require a lot of paper work and come with it lot of fake invoice, fake estimate or stolen vehicule from other country. I've became a specialist to find out counterfeid docs. In the mean time,
+      we built a building expension to accomodate 3 new repair door which was really challenging while maintaining the constant repair/customer flow. Also got the chance to learn almost everything about car, from replacing parts to rebuild a full engine from stratch.
+
+  - role: Estimator
+    time: Oct 2008 - April 2011
+    company: Fix Auto St-Jean / Garage Morin
+    details: |
+      This was one of my first "car" related work after leaving technology, which made a huge "shock" to see how well the wheel turn smoothly. I've got to learn from one of my mentor which we still keep touch, the management
+      and social interaction was one of my weakness which he helped everyday. During those time, i had to schedule car estimate, car repair, inspection and delivery of every customer which was about 10-15 car which repair can take more than 2-3 day specially for a hard crash.
+      Also got the chance to learn driving tow truck, air breaking, taking care of a rollover incident, and car bodywork repair. 
+
 skills:
   title: Skills &amp; Proficiency
 
@@ -110,9 +127,11 @@ skills:
     - name: Virtualisation (Openstack, KVM, VMware, Hyper-V, Docker, K8s)
       level: 90%
 
-    - name: Infrastructure (Building, Physical, Cabling, CCTV, HVAC, RFID/Digital)
+    - name: Infrastructure (Building, Physical, Cabling, CCTV, HVAC, RFID)
       level: 85%
 
-    - name: Electrical (Cabling, Electrical (108,208v,240v), Solar, UPS/Powerwall, Generator (P,E,D) )
+    - name: Electrical (Cabling, Multi-phase, Solar, UPS/Powerwall, Generator)
       level: 80%    
-      
+ 
+    - name: Cryptocurrency
+      level: 70%          
